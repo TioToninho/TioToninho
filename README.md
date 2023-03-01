@@ -1,14 +1,26 @@
+<img src="https://i.giphy.com/media/l3vRmVv5P01I5NDAA/giphy.webp" width="250"  align="left"/>
 
-<p align="center">
-  <br>
-  <br>
-  <br>
-  <samp>Hello there. I'm <em>Antonio</em>. <br>Bachelor of <em>Computer Science</em><br><br> I'm an Jr. Developer from São Paulo.<br><br>#python, #C++</samp>
-  <br>
-  <br>
-  <img src="https://media.giphy.com/media/rN7YEOsLbeJPogHQhr/giphy.gif" width="350" />
-</p>
+``` diff
+Hi, I'm Antonio
 
-------------
++ I'm a software engineer and B.Sc. in Computer Science
+- Living in São Paulo, Brazil
+@@ Interests in Functional Programming, Emacs, Open Source Softwares, CTF, Bug Bounty, Programming Languages @@
+! Python, Rust, Haskell, Javascript and Flutter
+```
 
+---
+#### Videos:
+*Coming Soon*
+---
+#### Articles:
+*Coming Soon*
+---
+#### Find me on:
+- [DEV.TO](https://dev.to/tiotoninho)
+- [TWITTER](https://twitter.com/apenasantoniov)
+- [*LINKEDIN*](https://www.linkedin.com/in/antoniomouravs/)
+- [*YOUTUBE*]()
 
+### Thanks for visiting!
+<img src="https://media.giphy.com/media/rN7YEOsLbeJPogHQhr/giphy.gif" width="350"  align="left"/>
