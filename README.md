@@ -10,13 +10,13 @@ Hi, I'm Antonio
 ```
 
 ---
-#### Videos:
+### Videos:
 *Coming Soon*
 ---
-#### Articles:
+### Articles:
 *Coming Soon*
 ---
-#### Find me on:
+## Find me on:
 - [DEV.TO](https://dev.to/tiotoninho)
 - [TWITTER](https://twitter.com/apenasantoniov)
 - [*LINKEDIN*](https://www.linkedin.com/in/antoniomouravs/)
