@@ -10,17 +10,10 @@ Hi, I'm Antonio
 ```
 
 ---
-### Videos:
-*Coming Soon*
----
-### Articles:
-*Coming Soon*
----
 ## Find me on:
 - [DEV.TO](https://dev.to/tiotoninho)
-- [TWITTER](https://twitter.com/apenasantoniov)
+- [TWITTER](https://twitter.com/iviviviviii)
 - [*LINKEDIN*](https://www.linkedin.com/in/antoniomouravs/)
-- [*YOUTUBE*]()
 
 ### Thanks for visiting!
 <img src="https://media.giphy.com/media/rN7YEOsLbeJPogHQhr/giphy.gif" width="350"  align="left"/>
