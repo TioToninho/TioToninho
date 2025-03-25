@@ -12,7 +12,6 @@ Hi, I'm Antonio
 ---
 ## Find me on:
 - [DEV.TO](https://dev.to/tiotoninho)
-- [TWITTER](https://twitter.com/iviviviviii)
 - [*LINKEDIN*](https://www.linkedin.com/in/antoniomouravs/)
 
 ### Thanks for visiting!
