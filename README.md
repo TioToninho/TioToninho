@@ -6,7 +6,7 @@ Hi, I'm Antonio
 + I'm a software engineer and B.Sc. in Computer Science
 - Living in São Paulo, Brazil
 @@ Interests in Functional Programming, Emacs, Open Source Softwares, CTF, Bug Bounty, Programming Languages @@
-! Python, Rust, Haskell, Javascript and Flutter
+! Python, C++, Haskell, TypeScript and Golang
 ```
 
 ---
